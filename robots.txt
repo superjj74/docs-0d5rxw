@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-25fqaf.date-me.pro/sitemap.xml
